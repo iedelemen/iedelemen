@@ -30,7 +30,7 @@ Hello, I'm **İbrahim Ethem Delemen**, a dedicated software developer and entrep
 </p>
 
 ### 🔗 Let's Connect
-- [Email](ibrahimethemdelemen@gamil.com)
+- [Email](ibrahimethemdelemen@gmail.com)
 
 ✨ *"Experience is the name everyone gives to their mistakes." – Oscar Wilde* ✨
 
